@@ -1,0 +1,1 @@
+This is my first python project. User input comes from terminal. Only solves up to 9 letter words (as per coundown rules)
